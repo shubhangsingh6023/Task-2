@@ -33,7 +33,7 @@ void calc(int n)
 int main()
 {
     int n;
-    printf("Enter n: 9");
+    printf("Enter n: ");
     scanf("%d",&n);
     for(int i = 1; i<=n; i++)
     {
